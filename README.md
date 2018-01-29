@@ -13,3 +13,7 @@ In this short course, there are 7 exercieses. These exercise would be briefly in
 * SpMV on GPU.
 * Bandwidth Test of Message Passing Interface (MPI).
 * Tutorial of cuDNN model from <a href="http://www.goldsborough.me/cuda/ml/cudnn/c++/2017/10/01/14-37-23-convolutions_with_cudnn/" target="_blank">Peter Goldsborough’s example</a>.
+
+In the end of this course, I choose this <a href="https://www.sciencedirect.com/science/article/pii/0024379586901631" target="_blank">paper</a> to implement.
+
+This paper is about solving symmetric positive definite system using hyperbolic Cholesky algorithm.
